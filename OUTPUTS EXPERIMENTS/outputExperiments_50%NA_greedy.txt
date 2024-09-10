@@ -1,0 +1,750 @@
+INSTANCE ./final_c++ greedy dataset_10x10_50.txt 2 2
+
+
+RESULTS:
+Rows Size of solution dataset: 3
+Cols Size of solution dataset: 2
+Completeness original dataset: 0.5
+Completeness of solution dataset: 1
+Execution time: 0.0390612 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x10_50.txt 5 5
+
+
+RESULTS:
+Rows Size of solution dataset: 6
+Cols Size of solution dataset: 6
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.777778
+Execution time: 0.0690492 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x10_50.txt 7 7
+
+
+RESULTS:
+Rows Size of solution dataset: 7
+Cols Size of solution dataset: 7
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.693878
+Execution time: 0.105209 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x50_50.txt 2 12
+
+
+RESULTS:
+Rows Size of solution dataset: 4
+Cols Size of solution dataset: 12
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.875
+Execution time: 0.169185 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x50_50.txt 5 25
+
+
+RESULTS:
+Rows Size of solution dataset: 5
+Cols Size of solution dataset: 26
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.715385
+Execution time: 0.203531 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x50_50.txt 7 37
+
+
+RESULTS:
+Rows Size of solution dataset: 7
+Cols Size of solution dataset: 37
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.594595
+Execution time: 0.285207 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x100_50.txt 2 25
+
+
+RESULTS:
+Rows Size of solution dataset: 3
+Cols Size of solution dataset: 49
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.816327
+Execution time: 0.259767 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x100_50.txt 5 50
+
+
+RESULTS:
+Rows Size of solution dataset: 5
+Cols Size of solution dataset: 53
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.728302
+Execution time: 0.405186 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x100_50.txt 7 75
+
+
+RESULTS:
+Rows Size of solution dataset: 7
+Cols Size of solution dataset: 76
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.601504
+Execution time: 0.614787 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x500_50.txt 2 125
+
+
+RESULTS:
+Rows Size of solution dataset: 3
+Cols Size of solution dataset: 249
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.7751
+Execution time: 3.27443 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x500_50.txt 5 250
+
+
+RESULTS:
+Rows Size of solution dataset: 5
+Cols Size of solution dataset: 251
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.69243
+Execution time: 5.82315 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x500_50.txt 7 375
+
+
+RESULTS:
+Rows Size of solution dataset: 7
+Cols Size of solution dataset: 375
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.585905
+Execution time: 8.78238 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x1000_50.txt 2 250
+
+
+RESULTS:
+Rows Size of solution dataset: 3
+Cols Size of solution dataset: 494
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.769231
+Execution time: 10.7734 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x1000_50.txt 5 500
+
+
+RESULTS:
+Rows Size of solution dataset: 5
+Cols Size of solution dataset: 503
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.696223
+Execution time: 19.8574 seconds
+
+INSTANCE ./final_c++ greedy dataset_10x1000_50.txt 7 750
+
+
+RESULTS:
+Rows Size of solution dataset: 7
+Cols Size of solution dataset: 763
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.584347
+Execution time: 31.5493 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x10_50.txt 12 2
+
+
+RESULTS:
+Rows Size of solution dataset: 20
+Cols Size of solution dataset: 2
+Completeness original dataset: 0.5
+Completeness of solution dataset: 1
+Execution time: 0.0347057 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x10_50.txt 25 5
+
+
+RESULTS:
+Rows Size of solution dataset: 26
+Cols Size of solution dataset: 5
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.746154
+Execution time: 0.152892 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x10_50.txt 37 7
+
+
+RESULTS:
+Rows Size of solution dataset: 37
+Cols Size of solution dataset: 7
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.621622
+Execution time: 0.296917 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x50_50.txt 12 12
+
+
+RESULTS:
+Rows Size of solution dataset: 12
+Cols Size of solution dataset: 12
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.8125
+Execution time: 0.246609 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x50_50.txt 25 25
+
+
+RESULTS:
+Rows Size of solution dataset: 25
+Cols Size of solution dataset: 25
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.6256
+Execution time: 0.421045 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x50_50.txt 37 37
+
+
+RESULTS:
+Rows Size of solution dataset: 38
+Cols Size of solution dataset: 41
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.545571
+Execution time: 0.614289 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x100_50.txt 12 25
+
+
+RESULTS:
+Rows Size of solution dataset: 12
+Cols Size of solution dataset: 25
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.763333
+Execution time: 0.477436 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x100_50.txt 25 50
+
+
+RESULTS:
+Rows Size of solution dataset: 25
+Cols Size of solution dataset: 53
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.608302
+Execution time: 0.795083 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x100_50.txt 37 75
+
+
+RESULTS:
+Rows Size of solution dataset: 38
+Cols Size of solution dataset: 87
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.528736
+Execution time: 1.16704 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x500_50.txt 12 125
+
+
+RESULTS:
+Rows Size of solution dataset: 12
+Cols Size of solution dataset: 133
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.702381
+Execution time: 5.27688 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x500_50.txt 25 250
+
+
+RESULTS:
+Rows Size of solution dataset: 25
+Cols Size of solution dataset: 262
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.592061
+Execution time: 6.14051 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x500_50.txt 37 375
+
+
+RESULTS:
+Rows Size of solution dataset: 38
+Cols Size of solution dataset: 423
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.526067
+Execution time: 10.6085 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x1000_50.txt 12 250
+
+
+RESULTS:
+Rows Size of solution dataset: 19
+Cols Size of solution dataset: 268
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.639827
+Execution time: 16.1357 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x1000_50.txt 25 500
+
+
+RESULTS:
+Rows Size of solution dataset: 25
+Cols Size of solution dataset: 526
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.58403
+Execution time: 18.4307 seconds
+
+INSTANCE ./final_c++ greedy dataset_50x1000_50.txt 37 750
+
+
+RESULTS:
+Rows Size of solution dataset: 39
+Cols Size of solution dataset: 906
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.516132
+Execution time: 32.7549 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x10_50.txt 25 2
+
+
+RESULTS:
+Rows Size of solution dataset: 35
+Cols Size of solution dataset: 2
+Completeness original dataset: 0.5
+Completeness of solution dataset: 1
+Execution time: 0.100159 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x10_50.txt 50 5
+
+
+RESULTS:
+Rows Size of solution dataset: 54
+Cols Size of solution dataset: 5
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.711111
+Execution time: 0.547592 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x10_50.txt 75 7
+
+
+RESULTS:
+Rows Size of solution dataset: 78
+Cols Size of solution dataset: 7
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.580586
+Execution time: 0.981724 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x50_50.txt 25 12
+
+
+RESULTS:
+Rows Size of solution dataset: 29
+Cols Size of solution dataset: 12
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.755747
+Execution time: 0.545525 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x50_50.txt 50 25
+
+
+RESULTS:
+Rows Size of solution dataset: 53
+Cols Size of solution dataset: 25
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.602264
+Execution time: 0.881359 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x50_50.txt 75 37
+
+
+RESULTS:
+Rows Size of solution dataset: 84
+Cols Size of solution dataset: 37
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.533784
+Execution time: 1.31643 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x100_50.txt 25 25
+
+
+RESULTS:
+Rows Size of solution dataset: 29
+Cols Size of solution dataset: 26
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.700265
+Execution time: 1.01547 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x100_50.txt 50 50
+
+
+RESULTS:
+Rows Size of solution dataset: 51
+Cols Size of solution dataset: 51
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.590927
+Execution time: 1.56453 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x100_50.txt 75 75
+
+
+RESULTS:
+Rows Size of solution dataset: 79
+Cols Size of solution dataset: 94
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.521546
+Execution time: 2.22875 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x500_50.txt 25 125
+
+
+RESULTS:
+Rows Size of solution dataset: 45
+Cols Size of solution dataset: 131
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.593215
+Execution time: 7.13589 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x500_50.txt 50 250
+
+
+RESULTS:
+Rows Size of solution dataset: 53
+Cols Size of solution dataset: 250
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.565208
+Execution time: 8.64775 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x500_50.txt 75 375
+
+
+RESULTS:
+Rows Size of solution dataset: 88
+Cols Size of solution dataset: 485
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.506326
+Execution time: 14.6513 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x1000_50.txt 25 250
+
+
+RESULTS:
+Rows Size of solution dataset: 43
+Cols Size of solution dataset: 546
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.565636
+Execution time: 22.5177 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x1000_50.txt 50 500
+
+
+RESULTS:
+Rows Size of solution dataset: 51
+Cols Size of solution dataset: 518
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.560527
+Execution time: 24.1137 seconds
+
+INSTANCE ./final_c++ greedy dataset_100x1000_50.txt 75 750
+
+
+RESULTS:
+Rows Size of solution dataset: 96
+Cols Size of solution dataset: 965
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.505203
+Execution time: 42.6995 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x10_50.txt 125 2
+
+
+RESULTS:
+Rows Size of solution dataset: 131
+Cols Size of solution dataset: 2
+Completeness original dataset: 0.5
+Completeness of solution dataset: 1
+Execution time: 1.55058 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x10_50.txt 250 5
+
+
+RESULTS:
+Rows Size of solution dataset: 262
+Cols Size of solution dataset: 5
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.69084
+Execution time: 6.01144 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x10_50.txt 375 7
+
+
+RESULTS:
+Rows Size of solution dataset: 404
+Cols Size of solution dataset: 7
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.563296
+Execution time: 15.9523 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x50_50.txt 125 12
+
+
+RESULTS:
+Rows Size of solution dataset: 143
+Cols Size of solution dataset: 12
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.687646
+Execution time: 3.71864 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x50_50.txt 250 25
+
+
+RESULTS:
+Rows Size of solution dataset: 259
+Cols Size of solution dataset: 26
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.57128
+Execution time: 6.67151 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x50_50.txt 375 37
+
+
+RESULTS:
+Rows Size of solution dataset: 380
+Cols Size of solution dataset: 37
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.530868
+Execution time: 10.1336 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x100_50.txt 125 25
+
+
+RESULTS:
+Rows Size of solution dataset: 125
+Cols Size of solution dataset: 52
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.583385
+Execution time: 5.43779 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x100_50.txt 250 50
+
+
+RESULTS:
+Rows Size of solution dataset: 260
+Cols Size of solution dataset: 58
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.554178
+Execution time: 8.42094 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x100_50.txt 375 75
+
+
+RESULTS:
+Rows Size of solution dataset: 378
+Cols Size of solution dataset: 100
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.511296
+Execution time: 14.6912 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x500_50.txt 125 125
+
+
+RESULTS:
+Rows Size of solution dataset: 245
+Cols Size of solution dataset: 274
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.5359
+Execution time: 26.8844 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x500_50.txt 250 250
+
+
+RESULTS:
+Rows Size of solution dataset: 253
+Cols Size of solution dataset: 267
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.535225
+Execution time: 31.4999 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x500_50.txt 375 375
+
+
+RESULTS:
+Rows Size of solution dataset: 460
+Cols Size of solution dataset: 500
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.502152
+Execution time: 56.7707 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x1000_50.txt 125 250
+
+
+RESULTS:
+Rows Size of solution dataset: 227
+Cols Size of solution dataset: 544
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.531784
+Execution time: 59.4988 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x1000_50.txt 250 500
+
+
+RESULTS:
+Rows Size of solution dataset: 251
+Cols Size of solution dataset: 536
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.530022
+Execution time: 70.678 seconds
+
+INSTANCE ./final_c++ greedy dataset_500x1000_50.txt 375 750
+
+
+RESULTS:
+Rows Size of solution dataset: 489
+Cols Size of solution dataset: 1000
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.500624
+Execution time: 119.666 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x10_50.txt 250 2
+
+
+RESULTS:
+Rows Size of solution dataset: 255
+Cols Size of solution dataset: 2
+Completeness original dataset: 0.5
+Completeness of solution dataset: 1
+Execution time: 5.14301 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x10_50.txt 500 5
+
+
+RESULTS:
+Rows Size of solution dataset: 505
+Cols Size of solution dataset: 5
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.688713
+Execution time: 22.3438 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x10_50.txt 750 7
+
+
+RESULTS:
+Rows Size of solution dataset: 805
+Cols Size of solution dataset: 7
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.56291
+Execution time: 52.9378 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x50_50.txt 250 12
+
+
+RESULTS:
+Rows Size of solution dataset: 291
+Cols Size of solution dataset: 13
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.673011
+Execution time: 9.78166 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x50_50.txt 500 25
+
+
+RESULTS:
+Rows Size of solution dataset: 516
+Cols Size of solution dataset: 25
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.566047
+Execution time: 22.8651 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x50_50.txt 750 37
+
+
+RESULTS:
+Rows Size of solution dataset: 751
+Cols Size of solution dataset: 50
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.515047
+Execution time: 40.9916 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x100_50.txt 250 25
+
+
+RESULTS:
+Rows Size of solution dataset: 257
+Cols Size of solution dataset: 48
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.577416
+Execution time: 15.2383 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x100_50.txt 500 50
+
+
+RESULTS:
+Rows Size of solution dataset: 502
+Cols Size of solution dataset: 53
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.546117
+Execution time: 22.2038 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x100_50.txt 750 75
+
+
+RESULTS:
+Rows Size of solution dataset: 761
+Cols Size of solution dataset: 100
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.509474
+Execution time: 39.7899 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x500_50.txt 250 125
+
+
+RESULTS:
+Rows Size of solution dataset: 481
+Cols Size of solution dataset: 257
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.528479
+Execution time: 54.9229 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x500_50.txt 500 250
+
+
+RESULTS:
+Rows Size of solution dataset: 509
+Cols Size of solution dataset: 265
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.52805
+Execution time: 62.0822 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x500_50.txt 750 375
+
+
+RESULTS:
+Rows Size of solution dataset: 909
+Cols Size of solution dataset: 500
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.502227
+Execution time: 116.306 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x1000_50.txt 250 250
+
+
+RESULTS:
+Rows Size of solution dataset: 471
+Cols Size of solution dataset: 558
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.524443
+Execution time: 104.19 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x1000_50.txt 500 500
+
+
+RESULTS:
+Rows Size of solution dataset: 501
+Cols Size of solution dataset: 551
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.523414
+Execution time: 120.96 seconds
+
+INSTANCE ./final_c++ greedy dataset_1000x1000_50.txt 750 750
+
+
+RESULTS:
+Rows Size of solution dataset: 977
+Cols Size of solution dataset: 1000
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.500521
+Execution time: 235.841 seconds
+

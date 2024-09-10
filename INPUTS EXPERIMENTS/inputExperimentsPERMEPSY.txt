@@ -1,0 +1,9 @@
+./final_c++ gurobi dataset_PERMEPSY.txt 174 140
+./final_c++ gurobi dataset_PERMEPSY.txt 349 281
+./final_c++ gurobi dataset_PERMEPSY.txt 524 422
+./final_c++ greedy dataset_PERMEPSY.txt 174 140
+./final_c++ greedy dataset_PERMEPSY.txt 349 281
+./final_c++ greedy dataset_PERMEPSY.txt 524 422
+./final_c++ CMSA dataset_PERMEPSY.txt 174 140
+./final_c++ CMSA dataset_PERMEPSY.txt 349 281
+./final_c++ CMSA dataset_PERMEPSY.txt 524 422

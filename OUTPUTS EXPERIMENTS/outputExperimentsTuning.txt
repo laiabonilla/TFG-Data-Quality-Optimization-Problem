@@ -1,0 +1,4292 @@
+INSTANCE ./TUNING_c++ CMSA dataset_10x100_50.txt 10 5 1000
+
+SEMILLA: 1723548875
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 108.153 seconds
+Execution time Best Solution: 0.200558 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 117.115 seconds
+Execution time Best Solution: 0.107848 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 116.465 seconds
+Execution time Best Solution: 0.114206 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 117.352 seconds
+Execution time Best Solution: 0.11593 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 108.82 seconds
+Execution time Best Solution: 0.108004 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 113.648 seconds
+Execution time Best Solution: 0.104352 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.96
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 111.134 seconds
+Execution time Best Solution: 0.104914 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 113.241 seconds
+Execution time Best Solution: 0.101269 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 113.568 seconds
+Execution time Best Solution: 0.111559 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 114.193 seconds
+Execution time Best Solution: 0.123732 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.96
+
+MITJANA TEMPS BEST SOLUTION = 0.119237
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.934667
+
+INSTANCE ./TUNING_c++ CMSA dataset_10x100_50.txt 10 15 1000
+
+SEMILLA: 1723550009
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 115.414 seconds
+Execution time Best Solution: 0.106019 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 111.61 seconds
+Execution time Best Solution: 0.108116 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 107.111 seconds
+Execution time Best Solution: 0.108581 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 112.71 seconds
+Execution time Best Solution: 0.110172 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 111.256 seconds
+Execution time Best Solution: 0.110735 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 105.224 seconds
+Execution time Best Solution: 0.100015 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 107.957 seconds
+Execution time Best Solution: 0.104158 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 114.407 seconds
+Execution time Best Solution: 0.112224 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 115.954 seconds
+Execution time Best Solution: 0.120089 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 106.088 seconds
+Execution time Best Solution: 0.116413 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+MITJANA TEMPS BEST SOLUTION = 0.109652
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.925333
+
+INSTANCE ./TUNING_c++ CMSA dataset_10x100_50.txt 10 25 1000
+
+SEMILLA: 1723551116
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 112.532 seconds
+Execution time Best Solution: 0.105856 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 109.414 seconds
+Execution time Best Solution: 0.0946296 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 117.483 seconds
+Execution time Best Solution: 0.10774 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 110.064 seconds
+Execution time Best Solution: 0.124037 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 116.354 seconds
+Execution time Best Solution: 0.10421 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 114.042 seconds
+Execution time Best Solution: 0.120676 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 113.755 seconds
+Execution time Best Solution: 0.103833 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 112.329 seconds
+Execution time Best Solution: 0.112523 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 108.294 seconds
+Execution time Best Solution: 0.108335 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 116.017 seconds
+Execution time Best Solution: 0.119143 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+MITJANA TEMPS BEST SOLUTION = 0.110098
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.932
+
+INSTANCE ./TUNING_c++ CMSA dataset_10x100_50.txt 20 5 1000
+
+SEMILLA: 1723552247
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 222.062 seconds
+Execution time Best Solution: 0.218259 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 223.161 seconds
+Execution time Best Solution: 0.213061 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 221.929 seconds
+Execution time Best Solution: 0.23044 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 224.738 seconds
+Execution time Best Solution: 0.222606 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 221.345 seconds
+Execution time Best Solution: 0.217608 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 223.747 seconds
+Execution time Best Solution: 0.221708 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 222.105 seconds
+Execution time Best Solution: 0.225087 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 216.72 seconds
+Execution time Best Solution: 0.221841 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 224.203 seconds
+Execution time Best Solution: 0.218146 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 223.204 seconds
+Execution time Best Solution: 0.222478 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+MITJANA TEMPS BEST SOLUTION = 0.221123
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.934667
+
+INSTANCE ./TUNING_c++ CMSA dataset_10x100_50.txt 20 15 1000
+
+SEMILLA: 1723554470
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 226.153 seconds
+Execution time Best Solution: 0.226125 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 224.873 seconds
+Execution time Best Solution: 0.232448 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 224.044 seconds
+Execution time Best Solution: 0.217874 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 222.547 seconds
+Execution time Best Solution: 0.222791 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 226.886 seconds
+Execution time Best Solution: 0.201173 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.893333
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 211.776 seconds
+Execution time Best Solution: 0.233724 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 220.747 seconds
+Execution time Best Solution: 0.190177 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 226.401 seconds
+Execution time Best Solution: 0.216701 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 215.612 seconds
+Execution time Best Solution: 0.220928 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 222.527 seconds
+Execution time Best Solution: 0.192577 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+MITJANA TEMPS BEST SOLUTION = 0.215452
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.929333
+
+INSTANCE ./TUNING_c++ CMSA dataset_10x100_50.txt 20 25 1000
+
+SEMILLA: 1723556692
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 221.494 seconds
+Execution time Best Solution: 0.22312 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 225.53 seconds
+Execution time Best Solution: 0.228482 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 223.937 seconds
+Execution time Best Solution: 0.236457 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 224.566 seconds
+Execution time Best Solution: 0.223068 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 224.961 seconds
+Execution time Best Solution: 0.232441 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 225.483 seconds
+Execution time Best Solution: 0.222059 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 210.402 seconds
+Execution time Best Solution: 0.222215 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 221.739 seconds
+Execution time Best Solution: 0.224855 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 219.478 seconds
+Execution time Best Solution: 0.225243 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 221.2 seconds
+Execution time Best Solution: 0.19751 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+MITJANA TEMPS BEST SOLUTION = 0.223545
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.929333
+
+INSTANCE ./TUNING_c++ CMSA dataset_10x100_50.txt 30 5 1000
+
+SEMILLA: 1723558910
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 333.394 seconds
+Execution time Best Solution: 0.322709 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 321.732 seconds
+Execution time Best Solution: 0.332776 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 334.044 seconds
+Execution time Best Solution: 0.326029 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 328.758 seconds
+Execution time Best Solution: 0.327696 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 327.466 seconds
+Execution time Best Solution: 0.31749 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 327.507 seconds
+Execution time Best Solution: 0.335446 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 329.12 seconds
+Execution time Best Solution: 0.329728 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 326.531 seconds
+Execution time Best Solution: 0.31794 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 328.402 seconds
+Execution time Best Solution: 0.32396 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 325.344 seconds
+Execution time Best Solution: 0.326983 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+MITJANA TEMPS BEST SOLUTION = 0.326076
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.928
+
+INSTANCE ./TUNING_c++ CMSA dataset_10x100_50.txt 30 15 1000
+
+SEMILLA: 1723562193
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 318.821 seconds
+Execution time Best Solution: 0.290932 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 326.969 seconds
+Execution time Best Solution: 0.323663 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 326.759 seconds
+Execution time Best Solution: 0.314967 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 328.685 seconds
+Execution time Best Solution: 0.378 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 312.725 seconds
+Execution time Best Solution: 0.327117 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 326.798 seconds
+Execution time Best Solution: 0.317647 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 323.237 seconds
+Execution time Best Solution: 0.335865 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 327.837 seconds
+Execution time Best Solution: 0.326675 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.946667
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 327.335 seconds
+Execution time Best Solution: 0.314493 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 321.281 seconds
+Execution time Best Solution: 0.326874 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+MITJANA TEMPS BEST SOLUTION = 0.325623
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.924
+
+INSTANCE ./TUNING_c++ CMSA dataset_10x100_50.txt 30 25 1000
+
+SEMILLA: 1723565433
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 325.285 seconds
+Execution time Best Solution: 0.331239 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 326.486 seconds
+Execution time Best Solution: 0.323594 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 330.276 seconds
+Execution time Best Solution: 0.3236 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.906667
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 329.841 seconds
+Execution time Best Solution: 0.329798 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.893333
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 323.386 seconds
+Execution time Best Solution: 0.339064 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 329.19 seconds
+Execution time Best Solution: 0.334428 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 330.851 seconds
+Execution time Best Solution: 0.334292 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 328.252 seconds
+Execution time Best Solution: 0.328937 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.933333
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 323.605 seconds
+Execution time Best Solution: 0.326762 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 324.492 seconds
+Execution time Best Solution: 0.285254 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.92
+
+MITJANA TEMPS BEST SOLUTION = 0.325697
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.92
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x500_50.txt 10 5 1000
+
+SEMILLA: 1723568705
+
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10803 seconds
+Execution time Best Solution: 0.498804 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.595122
+
+
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11521.4 seconds
+Execution time Best Solution: 0.587978 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.593445
+
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801 seconds
+Execution time Best Solution: 0.441527 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.595398
+
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801 seconds
+Execution time Best Solution: 0.435506 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.594386
+
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.2 seconds
+Execution time Best Solution: 0.490062 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.59459
+
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.1 seconds
+Execution time Best Solution: 0.460013 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.592519
+
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801 seconds
+Execution time Best Solution: 0.432964 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.592398
+
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.4 seconds
+Execution time Best Solution: 0.459835 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.593382
+
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.1 seconds
+Execution time Best Solution: 0.438726 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.599832
+
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.2 seconds
+Execution time Best Solution: 0.47723 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.593651
+
+MITJANA TEMPS BEST SOLUTION = 0.472264
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.594472
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x500_50.txt 10 15 1000
+
+SEMILLA: 1723677439
+
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.1 seconds
+Execution time Best Solution: 0.502835 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.593755
+
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.2 seconds
+Execution time Best Solution: 0.38599 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.590651
+
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.1 seconds
+Execution time Best Solution: 0.443179 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.59517
+
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801 seconds
+Execution time Best Solution: 0.470652 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.593796
+
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801 seconds
+Execution time Best Solution: 0.380275 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.594574
+
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.1 seconds
+Execution time Best Solution: 0.432182 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.589531
+
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801 seconds
+Execution time Best Solution: 0.411933 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.596
+
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801 seconds
+Execution time Best Solution: 0.444961 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.59312
+
+
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 15801.1 seconds
+Execution time Best Solution: 0.45683 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.589011
+
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801 seconds
+Execution time Best Solution: 0.438951 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.59552
+
+MITJANA TEMPS BEST SOLUTION = 0.436779
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.593113
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x500_50.txt 10 25 1000
+
+SEMILLA: 1723790449
+
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801 seconds
+Execution time Best Solution: 0.369199 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.590543
+
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.1 seconds
+Execution time Best Solution: 0.405797 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.593588
+
+
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 17765.3 seconds
+Execution time Best Solution: 0.505517 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.593086
+
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10800.9 seconds
+Execution time Best Solution: 0.408916 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.593871
+
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.4 seconds
+Execution time Best Solution: 0.311822 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.595402
+
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10800.7 seconds
+Execution time Best Solution: 0.317557 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.589784
+
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801 seconds
+Execution time Best Solution: 0.36422 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.595044
+
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.1 seconds
+Execution time Best Solution: 0.37381 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.593729
+
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10802.6 seconds
+Execution time Best Solution: 0.385736 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.599679
+
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801 seconds
+Execution time Best Solution: 0.373777 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.59
+
+MITJANA TEMPS BEST SOLUTION = 0.381635
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.593473
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x500_50.txt 20 5 1000
+
+SEMILLA: 1723905426
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.9 seconds
+Execution time Best Solution: 10801.9 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.580255
+
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11242.3 seconds
+Execution time Best Solution: 440.767 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.5839
+
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10949.6 seconds
+Execution time Best Solution: 148.752 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.589163
+
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10940.8 seconds
+Execution time Best Solution: 139.956 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.591618
+
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 12593.2 seconds
+Execution time Best Solution: 1792.29 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.582744
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.5 seconds
+Execution time Best Solution: 10801.5 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.583252
+
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 15679.7 seconds
+Execution time Best Solution: 4878.94 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.582193
+
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14711.8 seconds
+Execution time Best Solution: 3910.88 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.580085
+
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10961.6 seconds
+Execution time Best Solution: 160.725 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.588752
+
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11229.6 seconds
+Execution time Best Solution: 428.742 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.592285
+
+MITJANA TEMPS BEST SOLUTION = 3350.45
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.585425
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x500_50.txt 20 15 1000
+
+SEMILLA: 1724025338
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10800.8 seconds
+Execution time Best Solution: 10800.8 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.574444
+
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14407.9 seconds
+Execution time Best Solution: 3606.58 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.580645
+
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 12413.9 seconds
+Execution time Best Solution: 1613.02 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.58259
+
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14709.7 seconds
+Execution time Best Solution: 3908.52 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.584619
+
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11214.2 seconds
+Execution time Best Solution: 413.287 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.593446
+
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10864.8 seconds
+Execution time Best Solution: 63.944 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.588536
+
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.5 seconds
+Execution time Best Solution: 0.653967 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.594488
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10800.8 seconds
+Execution time Best Solution: 10800.8 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.580429
+
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.6 seconds
+Execution time Best Solution: 0.662628 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.593903
+
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11272 seconds
+Execution time Best Solution: 471.095 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.589039
+
+MITJANA TEMPS BEST SOLUTION = 3167.93
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.586214
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x500_50.txt 20 25 1000
+
+SEMILLA: 1724143425
+
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10871.2 seconds
+Execution time Best Solution: 70.2609 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.591773
+
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 20644.2 seconds
+Execution time Best Solution: 9843.15 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.587632
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10802 seconds
+Execution time Best Solution: 10802 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.582196
+
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10971.8 seconds
+Execution time Best Solution: 170.235 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.582102
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10800.8 seconds
+Execution time Best Solution: 10800.8 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.579969
+
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10979.8 seconds
+Execution time Best Solution: 176.176 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.586814
+
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 12228.2 seconds
+Execution time Best Solution: 1425.12 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.585433
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.8 seconds
+Execution time Best Solution: 10801.8 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.58184
+
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10896.9 seconds
+Execution time Best Solution: 95.9324 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.588889
+
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11328.5 seconds
+Execution time Best Solution: 524.947 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.587937
+
+MITJANA TEMPS BEST SOLUTION = 4471.04
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.585458
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x500_50.txt 30 5 1000
+
+SEMILLA: 1724263750
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10802.1 seconds
+Execution time Best Solution: 10802.1 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.569746
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10802.4 seconds
+Execution time Best Solution: 10802.4 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.573055
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10802.3 seconds
+Execution time Best Solution: 10802.3 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.569628
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.4 seconds
+Execution time Best Solution: 10801.4 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.577025
+
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11342 seconds
+Execution time Best Solution: 540.267 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.589
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10803.3 seconds
+Execution time Best Solution: 10803.3 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.579643
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.7 seconds
+Execution time Best Solution: 10801.7 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.572105
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.2 seconds
+Execution time Best Solution: 10801.2 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.570601
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.8 seconds
+Execution time Best Solution: 10801.8 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.574248
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10802.5 seconds
+Execution time Best Solution: 10802.5 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.58009
+
+MITJANA TEMPS BEST SOLUTION = 9775.88
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.575514
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x500_50.txt 30 15 1000
+
+SEMILLA: 1724372311
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10802.6 seconds
+Execution time Best Solution: 10802.6 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.57487
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10805.8 seconds
+Execution time Best Solution: 10805.8 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.571603
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.7 seconds
+Execution time Best Solution: 10801.7 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.574738
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10803.3 seconds
+Execution time Best Solution: 10803.3 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.577999
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10803.2 seconds
+Execution time Best Solution: 10803.2 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.575312
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.3 seconds
+Execution time Best Solution: 10801.3 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.573312
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.7 seconds
+Execution time Best Solution: 10801.7 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.574394
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10802 seconds
+Execution time Best Solution: 10802 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.576545
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.2 seconds
+Execution time Best Solution: 10801.2 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.577501
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.1 seconds
+Execution time Best Solution: 10801.1 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.575043
+
+MITJANA TEMPS BEST SOLUTION = 10802.4
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.575132
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x500_50.txt 30 25 1000
+
+SEMILLA: 1724480336
+
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 12502.2 seconds
+Execution time Best Solution: 1695.81 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.585769
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10804.7 seconds
+Execution time Best Solution: 10804.7 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.571759
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10802.6 seconds
+Execution time Best Solution: 10802.6 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.571636
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10803.5 seconds
+Execution time Best Solution: 10803.5 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.579151
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10804.1 seconds
+Execution time Best Solution: 10804.1 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.579514
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10802.3 seconds
+Execution time Best Solution: 10802.3 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.572293
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10809.4 seconds
+Execution time Best Solution: 10809.4 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.574884
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10808.3 seconds
+Execution time Best Solution: 10808.3 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.571545
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10806.2 seconds
+Execution time Best Solution: 10806.2 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.575232
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10808.6 seconds
+Execution time Best Solution: 10808.6 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.578923
+
+MITJANA TEMPS BEST SOLUTION = 9894.55
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.576071
+
+INSTANCE ./TUNING_c++ CMSA dataset_1000x50_50.txt 10 5 1000
+
+SEMILLA: 1723548820
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13529 seconds
+Execution time Best Solution: 0.825669 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624427
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 12608.4 seconds
+Execution time Best Solution: 1.00681 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628964
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 17782.6 seconds
+Execution time Best Solution: 0.980601 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624516
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13312.6 seconds
+Execution time Best Solution: 0.66195 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624835
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11863.6 seconds
+Execution time Best Solution: 0.746043 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.626395
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 17705.1 seconds
+Execution time Best Solution: 0.751543 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.621122
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 15871.2 seconds
+Execution time Best Solution: 0.734351 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.627544
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11087.8 seconds
+Execution time Best Solution: 0.632843 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629784
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13905.9 seconds
+Execution time Best Solution: 0.81258 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.623397
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 21543.9 seconds
+Execution time Best Solution: 0.761917 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.625084
+
+MITJANA TEMPS BEST SOLUTION = 0.791431
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.625607
+
+INSTANCE ./TUNING_c++ CMSA dataset_1000x50_50.txt 10 15 1000
+
+SEMILLA: 1723698031
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 17301.9 seconds
+Execution time Best Solution: 0.769796 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.63042
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 17155.1 seconds
+Execution time Best Solution: 0.764414 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.623996EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 18841.1 seconds
+Execution time Best Solution: 0.759945 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624597EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13304.6 seconds
+Execution time Best Solution: 0.742069 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.627167EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 17934.1 seconds
+Execution time Best Solution: 0.801255 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624506
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11473 seconds
+Execution time Best Solution: 0.668834 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.625167EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 17406.2 seconds
+Execution time Best Solution: 0.633997 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.620259EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14192.4 seconds
+Execution time Best Solution: 0.634464 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.616997EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 18288.5 seconds
+Execution time Best Solution: 0.548962 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.619749EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13547.6 seconds
+Execution time Best Solution: 0.659417 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624249
+
+MITJANA TEMPS BEST SOLUTION = 0.698315
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.623711
+
+INSTANCE ./TUNING_c++ CMSA dataset_1000x50_50.txt 10 25 1000
+
+SEMILLA: 1723857475
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 16124.4 seconds
+Execution time Best Solution: 0.672276 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.626944
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11921.6 seconds
+Execution time Best Solution: 0.78523 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.622707
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13904.9 seconds
+Execution time Best Solution: 0.753526 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.625326
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 16410.7 seconds
+Execution time Best Solution: 0.719885 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.62722
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14395.4 seconds
+Execution time Best Solution: 0.659061 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.625817EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14116 seconds
+Execution time Best Solution: 0.620884 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.61601EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14378.5 seconds
+Execution time Best Solution: 0.651654 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.619843
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 17530.3 seconds
+Execution time Best Solution: 0.50813 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628758
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11455.8 seconds
+Execution time Best Solution: 0.617944 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629412
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 12657.2 seconds
+Execution time Best Solution: 0.524817 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.62484
+
+MITJANA TEMPS BEST SOLUTION = 0.651341
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.624687
+
+INSTANCE ./TUNING_c++ CMSA dataset_1000x50_50.txt 20 5 1000
+
+SEMILLA: 1724000370
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14187.1 seconds
+Execution time Best Solution: 0.963755 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.627756
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 12839 seconds
+Execution time Best Solution: 1.14908 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.625962
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 18655.1 seconds
+Execution time Best Solution: 1.10131 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.626375EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14758.6 seconds
+Execution time Best Solution: 1.10967 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.622873EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14757.7 seconds
+Execution time Best Solution: 1.15853 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629399EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 20260.4 seconds
+Execution time Best Solution: 1.08212 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.626687
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14933.1 seconds
+Execution time Best Solution: 1.09243 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624615
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 17123.8 seconds
+Execution time Best Solution: 1.08298 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.6297
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14982.2 seconds
+Execution time Best Solution: 1.08155 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.623288EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13923.9 seconds
+Execution time Best Solution: 1.08548 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628684
+
+MITJANA TEMPS BEST SOLUTION = 1.09069
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.626534
+
+INSTANCE ./TUNING_c++ CMSA dataset_1000x50_50.txt 20 15 1000
+
+SEMILLA: 1724156791
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 17622.7 seconds
+Execution time Best Solution: 1.09261 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628702EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13349 seconds
+Execution time Best Solution: 1.11993 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.625486EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 12963.2 seconds
+Execution time Best Solution: 1.09524 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.62348
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11421.7 seconds
+Execution time Best Solution: 1.15155 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.622985EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 18003.2 seconds
+Execution time Best Solution: 1.08787 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.626512
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10968 seconds
+Execution time Best Solution: 1.23904 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.631045EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 12571.4 seconds
+Execution time Best Solution: 1.10973 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629382EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 19720.5 seconds
+Execution time Best Solution: 1.14605 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.621243
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 15870.8 seconds
+Execution time Best Solution: 1.91225 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.631791EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 15356.5 seconds
+Execution time Best Solution: 1.46577 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.625696
+
+MITJANA TEMPS BEST SOLUTION = 1.242
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.626632
+
+INSTANCE ./TUNING_c++ CMSA dataset_1000x50_50.txt 20 25 1000
+
+SEMILLA: 1724304638
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13083.5 seconds
+Execution time Best Solution: 1.08289 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624275
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11442.1 seconds
+Execution time Best Solution: 1.10595 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.626873EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 20888.1 seconds
+Execution time Best Solution: 1.16264 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.622645
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14026.6 seconds
+Execution time Best Solution: 193.39 seconds
+Iteration Best Solution: 1
+Completeness Best Solution: 0.62229EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 18403.4 seconds
+Execution time Best Solution: 1.19767 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.626719
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 14705.7 seconds
+Execution time Best Solution: 1.62243 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.627168EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 21450.7 seconds
+Execution time Best Solution: 1.66489 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628514
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13696.5 seconds
+Execution time Best Solution: 1.44967 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.626162
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11793.4 seconds
+Execution time Best Solution: 1.13986 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.617135
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 16230.4 seconds
+Execution time Best Solution: 1.18445 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.627953
+
+MITJANA TEMPS BEST SOLUTION = 20.5
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.624973
+
+INSTANCE ./TUNING_c++ CMSA dataset_1000x50_50.txt 30 5 1000
+
+SEMILLA: 1724460359EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 19081.2 seconds
+Execution time Best Solution: 1.61847 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628995EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 16771.3 seconds
+Execution time Best Solution: 2.03238 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.632382EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13102.3 seconds
+Execution time Best Solution: 25.4715 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.621633
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11746.4 seconds
+Execution time Best Solution: 2.02014 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.630398
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13884.3 seconds
+Execution time Best Solution: 2.22649 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624263
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 15576.4 seconds
+Execution time Best Solution: 2.21142 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.621622
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 21590.6 seconds
+Execution time Best Solution: 1.83506 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.626272
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11210.6 seconds
+Execution time Best Solution: 2.92704 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628459
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 16341.5 seconds
+Execution time Best Solution: 1.97188 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.623103
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 15535.3 seconds
+Execution time Best Solution: 1.27185 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628627
+
+MITJANA TEMPS BEST SOLUTION = 4.35862
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.626575
+
+INSTANCE ./TUNING_c++ CMSA dataset_1000x50_50.txt 30 15 1000
+
+SEMILLA: 1724615199
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11949 seconds
+Execution time Best Solution: 1.24852 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.630279
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13850.2 seconds
+Execution time Best Solution: 1.30509 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.625698
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10873 seconds
+Execution time Best Solution: 1.3329 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.626525
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 20349.2 seconds
+Execution time Best Solution: 1.28771 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629282
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11981.3 seconds
+Execution time Best Solution: 7.62474 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628964
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11870.5 seconds
+Execution time Best Solution: 21.7926 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.621703
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11765 seconds
+Execution time Best Solution: 1.96016 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.627516
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13723.1 seconds
+Execution time Best Solution: 1.374 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628205
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 18282.2 seconds
+Execution time Best Solution: 1.37522 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.625908EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 12192.7 seconds
+Execution time Best Solution: 1.28352 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.623498
+
+MITJANA TEMPS BEST SOLUTION = 4.05845
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.626758
+
+INSTANCE ./TUNING_c++ CMSA dataset_1000x50_50.txt 30 25 1000
+
+SEMILLA: 1724752036EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 12888.9 seconds
+Execution time Best Solution: 1.27335 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.62911
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11348.8 seconds
+Execution time Best Solution: 1.41775 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.625405
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11955.6 seconds
+Execution time Best Solution: 1.58084 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624442EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 15133 seconds
+Execution time Best Solution: 21.8961 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.620504
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 15658 seconds
+Execution time Best Solution: 2.28324 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628242
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 20179 seconds
+Execution time Best Solution: 1.68856 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628119
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11176.5 seconds
+Execution time Best Solution: 1.89635 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624436EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 13796.5 seconds
+Execution time Best Solution: 1.58047 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.626272EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11674.8 seconds
+Execution time Best Solution: 1.89177 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.624364
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 11717.6 seconds
+Execution time Best Solution: 1.25208 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.625811
+
+MITJANA TEMPS BEST SOLUTION = 3.67605
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.62567
+
+INSTANCE ./TUNING_c++ CMSA dataset_50x50_25.txt 10 5 1000
+
+SEMILLA: 1724887565
+EXPERIMENT ITERATION = 0
+Execution time Total: 117.915 seconds
+Execution time Best Solution: 0.0710965 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.82971
+EXPERIMENT ITERATION = 1
+Execution time Total: 119.662 seconds
+Execution time Best Solution: 0.0928302 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.829431
+EXPERIMENT ITERATION = 2
+Execution time Total: 118.077 seconds
+Execution time Best Solution: 0.0860718 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.824534
+EXPERIMENT ITERATION = 3
+Execution time Total: 116.913 seconds
+Execution time Best Solution: 0.0831586 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.82735
+EXPERIMENT ITERATION = 4
+Execution time Total: 118.868 seconds
+Execution time Best Solution: 0.0869587 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.828148
+EXPERIMENT ITERATION = 5
+Execution time Total: 117.888 seconds
+Execution time Best Solution: 0.0919213 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.821604
+EXPERIMENT ITERATION = 6
+Execution time Total: 118.23 seconds
+Execution time Best Solution: 0.0955084 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.816964
+EXPERIMENT ITERATION = 7
+Execution time Total: 119.728 seconds
+Execution time Best Solution: 0.292678 seconds
+Iteration Best Solution: 2
+Completeness Best Solution: 0.809211
+EXPERIMENT ITERATION = 8
+Execution time Total: 117.213 seconds
+Execution time Best Solution: 0.0817433 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.830769
+EXPERIMENT ITERATION = 9
+Execution time Total: 118.932 seconds
+Execution time Best Solution: 0.0816896 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.825641
+
+MITJANA TEMPS BEST SOLUTION = 0.106366
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.824336
+
+INSTANCE ./TUNING_c++ CMSA dataset_50x50_25.txt 10 15 1000
+
+SEMILLA: 1724888749
+EXPERIMENT ITERATION = 0
+Execution time Total: 118.071 seconds
+Execution time Best Solution: 0.0727366 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.822695
+EXPERIMENT ITERATION = 1
+Execution time Total: 119.602 seconds
+Execution time Best Solution: 0.0973852 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.819858
+EXPERIMENT ITERATION = 2
+Execution time Total: 120.899 seconds
+Execution time Best Solution: 0.192459 seconds
+Iteration Best Solution: 1
+Completeness Best Solution: 0.818056
+EXPERIMENT ITERATION = 3
+Execution time Total: 121.151 seconds
+Execution time Best Solution: 0.0697436 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.810764
+EXPERIMENT ITERATION = 4
+Execution time Total: 118.155 seconds
+Execution time Best Solution: 0.0700358 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.81
+EXPERIMENT ITERATION = 5
+Execution time Total: 117.406 seconds
+Execution time Best Solution: 0.0821882 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.818803
+EXPERIMENT ITERATION = 6
+Execution time Total: 116.4 seconds
+Execution time Best Solution: 0.0693882 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.815972
+EXPERIMENT ITERATION = 7
+Execution time Total: 117.44 seconds
+Execution time Best Solution: 0.0978437 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.822917
+EXPERIMENT ITERATION = 8
+Execution time Total: 120.254 seconds
+Execution time Best Solution: 0.070013 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.822917
+EXPERIMENT ITERATION = 9
+Execution time Total: 119.789 seconds
+Execution time Best Solution: 0.069939 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.827778
+
+MITJANA TEMPS BEST SOLUTION = 0.0891733
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.818976
+
+INSTANCE ./TUNING_c++ CMSA dataset_50x50_25.txt 10 25 1000
+
+SEMILLA: 1724889938
+EXPERIMENT ITERATION = 0
+Execution time Total: 118.764 seconds
+Execution time Best Solution: 0.0733821 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.820922
+EXPERIMENT ITERATION = 1
+Execution time Total: 118.231 seconds
+Execution time Best Solution: 0.0923883 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.823241
+EXPERIMENT ITERATION = 2
+Execution time Total: 118.515 seconds
+Execution time Best Solution: 0.0701685 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.81383
+EXPERIMENT ITERATION = 3
+Execution time Total: 120.91 seconds
+Execution time Best Solution: 0.0712303 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.831481
+EXPERIMENT ITERATION = 4
+Execution time Total: 121.881 seconds
+Execution time Best Solution: 0.0702372 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.824275
+EXPERIMENT ITERATION = 5
+Execution time Total: 123.368 seconds
+Execution time Best Solution: 0.0700049 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.825758
+EXPERIMENT ITERATION = 6
+Execution time Total: 115.889 seconds
+Execution time Best Solution: 0.10142 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.821429
+EXPERIMENT ITERATION = 7
+Execution time Total: 121.19 seconds
+Execution time Best Solution: 0.0695351 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.82037
+EXPERIMENT ITERATION = 8
+Execution time Total: 120.095 seconds
+Execution time Best Solution: 0.0848204 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.816694
+EXPERIMENT ITERATION = 9
+Execution time Total: 130.091 seconds
+Execution time Best Solution: 0.112164 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.820513
+
+MITJANA TEMPS BEST SOLUTION = 0.081535
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.821851
+
+INSTANCE ./TUNING_c++ CMSA dataset_50x50_25.txt 20 5 1000
+
+SEMILLA: 1724891147
+EXPERIMENT ITERATION = 0
+Execution time Total: 187.204 seconds
+Execution time Best Solution: 0.233528 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.811111
+EXPERIMENT ITERATION = 1
+Execution time Total: 183.495 seconds
+Execution time Best Solution: 0.174549 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.813802
+EXPERIMENT ITERATION = 2
+Execution time Total: 187.383 seconds
+Execution time Best Solution: 0.157837 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.808673
+EXPERIMENT ITERATION = 3
+Execution time Total: 185.242 seconds
+Execution time Best Solution: 0.175559 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.806723
+EXPERIMENT ITERATION = 4
+Execution time Total: 183.638 seconds
+Execution time Best Solution: 0.154618 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.806803
+EXPERIMENT ITERATION = 5
+Execution time Total: 188.017 seconds
+Execution time Best Solution: 0.17253 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.81299
+EXPERIMENT ITERATION = 6
+Execution time Total: 186.383 seconds
+Execution time Best Solution: 0.148555 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.826514
+EXPERIMENT ITERATION = 7
+Execution time Total: 186.377 seconds
+Execution time Best Solution: 0.165475 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.8125
+EXPERIMENT ITERATION = 8
+Execution time Total: 183.769 seconds
+Execution time Best Solution: 0.15575 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.804082
+EXPERIMENT ITERATION = 9
+Execution time Total: 183.861 seconds
+Execution time Best Solution: 0.156979 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.819259
+
+MITJANA TEMPS BEST SOLUTION = 0.169538
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.812246
+
+INSTANCE ./TUNING_c++ CMSA dataset_50x50_25.txt 20 15 1000
+
+SEMILLA: 1724893002
+EXPERIMENT ITERATION = 0
+Execution time Total: 188.591 seconds
+Execution time Best Solution: 0.219153 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.80758
+EXPERIMENT ITERATION = 1
+Execution time Total: 189.792 seconds
+Execution time Best Solution: 0.155739 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.819149
+EXPERIMENT ITERATION = 2
+Execution time Total: 187.235 seconds
+Execution time Best Solution: 0.170334 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.817021
+EXPERIMENT ITERATION = 3
+Execution time Total: 186.556 seconds
+Execution time Best Solution: 0.164204 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.807256
+EXPERIMENT ITERATION = 4
+Execution time Total: 187.166 seconds
+Execution time Best Solution: 0.172989 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.813725
+EXPERIMENT ITERATION = 5
+Execution time Total: 190.8 seconds
+Execution time Best Solution: 0.169374 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.8125
+EXPERIMENT ITERATION = 6
+Execution time Total: 184.059 seconds
+Execution time Best Solution: 0.15696 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.806548
+EXPERIMENT ITERATION = 7
+Execution time Total: 186.353 seconds
+Execution time Best Solution: 0.154565 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.820741
+EXPERIMENT ITERATION = 8
+Execution time Total: 186.533 seconds
+Execution time Best Solution: 0.16852 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.804286
+EXPERIMENT ITERATION = 9
+Execution time Total: 185.36 seconds
+Execution time Best Solution: 0.174388 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.806122
+
+MITJANA TEMPS BEST SOLUTION = 0.170623
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.811493
+
+INSTANCE ./TUNING_c++ CMSA dataset_50x50_25.txt 20 25 1000
+
+SEMILLA: 1724894875
+EXPERIMENT ITERATION = 0
+Execution time Total: 186.892 seconds
+Execution time Best Solution: 0.213007 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.804688
+EXPERIMENT ITERATION = 1
+Execution time Total: 184.213 seconds
+Execution time Best Solution: 0.168645 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.821739
+EXPERIMENT ITERATION = 2
+Execution time Total: 187.763 seconds
+Execution time Best Solution: 0.162016 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.806122
+EXPERIMENT ITERATION = 3
+Execution time Total: 185.507 seconds
+Execution time Best Solution: 0.165463 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.811953
+EXPERIMENT ITERATION = 4
+Execution time Total: 189.29 seconds
+Execution time Best Solution: 0.17259 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.807923
+EXPERIMENT ITERATION = 5
+Execution time Total: 186.691 seconds
+Execution time Best Solution: 0.155367 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.806944
+EXPERIMENT ITERATION = 6
+Execution time Total: 187.825 seconds
+Execution time Best Solution: 0.166648 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.794785
+EXPERIMENT ITERATION = 7
+Execution time Total: 191.667 seconds
+Execution time Best Solution: 0.15761 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.81383
+EXPERIMENT ITERATION = 8
+Execution time Total: 188.376 seconds
+Execution time Best Solution: 0.160149 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.812346
+EXPERIMENT ITERATION = 9
+Execution time Total: 188.238 seconds
+Execution time Best Solution: 0.325518 seconds
+Iteration Best Solution: 1
+Completeness Best Solution: 0.813517
+
+MITJANA TEMPS BEST SOLUTION = 0.184701
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.809385
+
+INSTANCE ./TUNING_c++ CMSA dataset_50x50_25.txt 30 5 1000
+
+SEMILLA: 1724896752
+EXPERIMENT ITERATION = 0
+Execution time Total: 255.197 seconds
+Execution time Best Solution: 0.304351 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.809028
+EXPERIMENT ITERATION = 1
+Execution time Total: 264.497 seconds
+Execution time Best Solution: 0.240354 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.804511
+EXPERIMENT ITERATION = 2
+Execution time Total: 254.307 seconds
+Execution time Best Solution: 0.220387 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.820669
+EXPERIMENT ITERATION = 3
+Execution time Total: 256.784 seconds
+Execution time Best Solution: 0.224879 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.79932
+EXPERIMENT ITERATION = 4
+Execution time Total: 252.592 seconds
+Execution time Best Solution: 0.224391 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.810049
+EXPERIMENT ITERATION = 5
+Execution time Total: 250.387 seconds
+Execution time Best Solution: 0.236047 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.80963
+EXPERIMENT ITERATION = 6
+Execution time Total: 254.33 seconds
+Execution time Best Solution: 0.225314 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.80625
+EXPERIMENT ITERATION = 7
+Execution time Total: 256.527 seconds
+Execution time Best Solution: 0.244917 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.805921
+EXPERIMENT ITERATION = 8
+Execution time Total: 258.173 seconds
+Execution time Best Solution: 0.233648 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.821739
+EXPERIMENT ITERATION = 9
+Execution time Total: 253.029 seconds
+Execution time Best Solution: 0.241665 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.802363
+
+MITJANA TEMPS BEST SOLUTION = 0.239595
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.808948
+
+INSTANCE ./TUNING_c++ CMSA dataset_50x50_25.txt 30 15 1000
+
+SEMILLA: 1724899307
+EXPERIMENT ITERATION = 0
+Execution time Total: 255.464 seconds
+Execution time Best Solution: 0.28069 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.809028
+EXPERIMENT ITERATION = 1
+Execution time Total: 265.798 seconds
+Execution time Best Solution: 0.378866 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.802083
+EXPERIMENT ITERATION = 2
+Execution time Total: 255.773 seconds
+Execution time Best Solution: 0.679672 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.805585
+EXPERIMENT ITERATION = 3
+Execution time Total: 249.194 seconds
+Execution time Best Solution: 0.241237 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.803437
+EXPERIMENT ITERATION = 4
+Execution time Total: 250.295 seconds
+Execution time Best Solution: 0.242453 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.807018
+EXPERIMENT ITERATION = 5
+Execution time Total: 249.905 seconds
+Execution time Best Solution: 0.234823 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.804511
+EXPERIMENT ITERATION = 6
+Execution time Total: 252.892 seconds
+Execution time Best Solution: 0.227347 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.79932
+EXPERIMENT ITERATION = 7
+Execution time Total: 250.894 seconds
+Execution time Best Solution: 0.232171 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.813517
+EXPERIMENT ITERATION = 8
+Execution time Total: 250.4 seconds
+Execution time Best Solution: 0.469894 seconds
+Iteration Best Solution: 1
+Completeness Best Solution: 0.803693
+EXPERIMENT ITERATION = 9
+Execution time Total: 257.686 seconds
+Execution time Best Solution: 0.247616 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.810049
+
+MITJANA TEMPS BEST SOLUTION = 0.323477
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.805824
+
+INSTANCE ./TUNING_c++ CMSA dataset_50x50_25.txt 30 25 1000
+
+SEMILLA: 1724901846
+EXPERIMENT ITERATION = 0
+Execution time Total: 265.113 seconds
+Execution time Best Solution: 0.296836 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.798889
+EXPERIMENT ITERATION = 1
+Execution time Total: 254.318 seconds
+Execution time Best Solution: 0.361225 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.809896
+EXPERIMENT ITERATION = 2
+Execution time Total: 251.917 seconds
+Execution time Best Solution: 0.248088 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.795789
+EXPERIMENT ITERATION = 3
+Execution time Total: 257.165 seconds
+Execution time Best Solution: 0.328074 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.803437
+EXPERIMENT ITERATION = 4
+Execution time Total: 252.708 seconds
+Execution time Best Solution: 0.23151 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.796667
+EXPERIMENT ITERATION = 5
+Execution time Total: 255.002 seconds
+Execution time Best Solution: 0.285033 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.807923
+EXPERIMENT ITERATION = 6
+Execution time Total: 251.52 seconds
+Execution time Best Solution: 0.234228 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.815603
+EXPERIMENT ITERATION = 7
+Execution time Total: 251.513 seconds
+Execution time Best Solution: 0.230092 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.801289
+EXPERIMENT ITERATION = 8
+Execution time Total: 251.54 seconds
+Execution time Best Solution: 0.226686 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.796939
+EXPERIMENT ITERATION = 9
+Execution time Total: 254.355 seconds
+Execution time Best Solution: 0.487683 seconds
+Iteration Best Solution: 1
+Completeness Best Solution: 0.803442
+
+MITJANA TEMPS BEST SOLUTION = 0.292945
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.802987
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x1000_25.txt 10 5 1000
+
+SEMILLA: 1723548927
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10843.2 seconds
+Execution time Best Solution: 1.62462 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.761625
+
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10859.6 seconds
+Execution time Best Solution: 1.22257 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765046
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10893.6 seconds
+Execution time Best Solution: 1.5233 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765386
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10800.6 seconds
+Execution time Best Solution: 46.8913 seconds
+Iteration Best Solution: 2
+Completeness Best Solution: 0.761825
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10832.2 seconds
+Execution time Best Solution: 1.12196 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.763917EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10806.9 seconds
+Execution time Best Solution: 0.98791 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.763782
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10811.6 seconds
+Execution time Best Solution: 1.20445 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.76618
+
+
+
+
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10865 seconds
+Execution time Best Solution: 1.14232 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.763598
+
+
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10863.3 seconds
+Execution time Best Solution: 1.12077 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.764995EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10802.8 seconds
+Execution time Best Solution: 1.1256 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.763621
+
+MITJANA TEMPS BEST SOLUTION = 5.79648
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.763998
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x1000_25.txt 10 15 1000
+
+SEMILLA: 1723657306
+
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10849.8 seconds
+Execution time Best Solution: 1.32248 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.763282
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10817.8 seconds
+Execution time Best Solution: 1.12136 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766832EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10820.2 seconds
+Execution time Best Solution: 1.13782 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.768423
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10850.3 seconds
+Execution time Best Solution: 1.13318 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766322
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10807.4 seconds
+Execution time Best Solution: 1.1715 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767354
+
+
+
+
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10808.9 seconds
+Execution time Best Solution: 1.14269 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.7681
+
+
+
+
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10826.7 seconds
+Execution time Best Solution: 1.12523 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765697
+
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10855.2 seconds
+Execution time Best Solution: 0.937352 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.761421
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10821.7 seconds
+Execution time Best Solution: 1.13974 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.763426EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10839.8 seconds
+Execution time Best Solution: 1.12992 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.76618
+
+MITJANA TEMPS BEST SOLUTION = 1.13613
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.765704
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x1000_25.txt 10 25 1000
+
+SEMILLA: 1723765604
+
+
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10833.3 seconds
+Execution time Best Solution: 1.23876 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767983EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10837.8 seconds
+Execution time Best Solution: 1.10826 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767132
+
+
+
+
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10829.8 seconds
+Execution time Best Solution: 0.933632 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766035
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10860.3 seconds
+Execution time Best Solution: 0.953086 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767247
+
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10846.4 seconds
+Execution time Best Solution: 0.982798 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765347
+
+
+
+
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10812.6 seconds
+Execution time Best Solution: 0.929044 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.763975
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10848.2 seconds
+Execution time Best Solution: 0.954796 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766063
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10800.9 seconds
+Execution time Best Solution: 0.956537 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.764989
+
+
+
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10842.8 seconds
+Execution time Best Solution: 0.967082 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.762744
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10837.7 seconds
+Execution time Best Solution: 0.924312 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.76551
+
+MITJANA TEMPS BEST SOLUTION = 0.994831
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.767703
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x1000_25.txt 20 5 1000
+
+SEMILLA: 1723873954
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10824.7 seconds
+Execution time Best Solution: 1.57372 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.769262EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10827.3 seconds
+Execution time Best Solution: 1.5897 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.76612
+
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10874.7 seconds
+Execution time Best Solution: 1.60255 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767565
+
+
+
+
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10841.5 seconds
+Execution time Best Solution: 1.68502 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767232
+
+
+
+
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10893.8 seconds
+Execution time Best Solution: 1.82661 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.768202
+
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10806.7 seconds
+Execution time Best Solution: 1.62699 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766639
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10821.6 seconds
+Execution time Best Solution: 1.61836 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767284
+
+
+
+
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10830.8 seconds
+Execution time Best Solution: 6.70914 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.769074EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10819.8 seconds
+Execution time Best Solution: 1.62561 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.768049
+
+
+
+
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10823.5 seconds
+Execution time Best Solution: 1.65955 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767952
+
+MITJANA TEMPS BEST SOLUTION = 2.15173
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.767738
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x1000_25.txt 20 15 1000
+
+SEMILLA: 1723982318
+
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10824.2 seconds
+Execution time Best Solution: 1.54699 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767068EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10827.5 seconds
+Execution time Best Solution: 1.63929 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.768966
+
+
+
+
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10809.1 seconds
+Execution time Best Solution: 1.61694 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.762955EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10806.3 seconds
+Execution time Best Solution: 1.71195 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766915
+
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10881.3 seconds
+Execution time Best Solution: 1.55636 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767765
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10838.3 seconds
+Execution time Best Solution: 1.60525 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.764975
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10817.4 seconds
+Execution time Best Solution: 1.29601 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.768638
+
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10811.8 seconds
+Execution time Best Solution: 1.6001 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765431
+
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10816.6 seconds
+Execution time Best Solution: 1.60376 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.76498
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10839 seconds
+Execution time Best Solution: 1.62219 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767571
+
+MITJANA TEMPS BEST SOLUTION = 1.57988
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.766526
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x1000_25.txt 20 25 1000
+
+SEMILLA: 1724090590
+
+
+
+
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10822.7 seconds
+Execution time Best Solution: 1.62626 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766352
+
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10844.7 seconds
+Execution time Best Solution: 1.64602 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.769293EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10809.8 seconds
+Execution time Best Solution: 1.61949 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767485
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10804 seconds
+Execution time Best Solution: 1.62809 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767928
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10840.2 seconds
+Execution time Best Solution: 1.66528 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767759
+
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10860 seconds
+Execution time Best Solution: 1.61414 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.764892
+
+
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10833.6 seconds
+Execution time Best Solution: 1.65074 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.768201
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10803 seconds
+Execution time Best Solution: 1.61407 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766895
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10834.8 seconds
+Execution time Best Solution: 1.60494 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.76738
+
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10805.8 seconds
+Execution time Best Solution: 7.86321 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.768447
+
+MITJANA TEMPS BEST SOLUTION = 2.25322
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.767463
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x1000_25.txt 30 5 1000
+
+SEMILLA: 1724198849
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10850.8 seconds
+Execution time Best Solution: 2.24351 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.76792
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10808.5 seconds
+Execution time Best Solution: 12.0133 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767139
+
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10853.2 seconds
+Execution time Best Solution: 14.9195 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765139
+
+
+
+
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10841.8 seconds
+Execution time Best Solution: 12.1841 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766836
+
+
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10817.2 seconds
+Execution time Best Solution: 2.36415 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766055
+
+
+
+
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10805.5 seconds
+Execution time Best Solution: 11.9633 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.763755
+
+
+
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10843.4 seconds
+Execution time Best Solution: 17.7578 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765314
+
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10851.6 seconds
+Execution time Best Solution: 2.43216 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767404
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10862.8 seconds
+Execution time Best Solution: 12.3394 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765877
+
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10826.4 seconds
+Execution time Best Solution: 15.1434 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765933
+
+MITJANA TEMPS BEST SOLUTION = 10.3361
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.766137
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x1000_25.txt 30 15 1000
+
+SEMILLA: 1724307210EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10814.9 seconds
+Execution time Best Solution: 14.027 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.768012
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10815.2 seconds
+Execution time Best Solution: 16.1026 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766463
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10828.3 seconds
+Execution time Best Solution: 13.4146 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767562EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10839.4 seconds
+Execution time Best Solution: 2.28502 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766432
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10826.4 seconds
+Execution time Best Solution: 2.28931 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.768072
+
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10843.8 seconds
+Execution time Best Solution: 13.6278 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766076EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10847.9 seconds
+Execution time Best Solution: 12.8429 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765496
+
+
+
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10808.3 seconds
+Execution time Best Solution: 16.8976 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767663
+
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10815.6 seconds
+Execution time Best Solution: 13.5582 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766823EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10823.8 seconds
+Execution time Best Solution: 17.3288 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766349
+
+MITJANA TEMPS BEST SOLUTION = 12.2374
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.766895
+
+INSTANCE ./TUNING_c++ CMSA dataset_100x1000_25.txt 30 25 1000
+
+SEMILLA: 1724415474
+
+
+
+
+EXPERIMENT ITERATION = 0
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10875.7 seconds
+Execution time Best Solution: 10.598 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766867
+
+
+
+
+
+
+EXPERIMENT ITERATION = 1
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10829.4 seconds
+Execution time Best Solution: 8.91773 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.768379
+
+
+
+
+
+
+EXPERIMENT ITERATION = 2
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10869.9 seconds
+Execution time Best Solution: 8.31223 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765958
+EXPERIMENT ITERATION = 3
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10842.4 seconds
+Execution time Best Solution: 2.2775 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.768195
+
+
+
+
+
+EXPERIMENT ITERATION = 4
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10801.5 seconds
+Execution time Best Solution: 13.1565 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.76719
+
+EXPERIMENT ITERATION = 5
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10860.2 seconds
+Execution time Best Solution: 16.9063 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767025
+
+
+
+EXPERIMENT ITERATION = 6
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10838.4 seconds
+Execution time Best Solution: 2.21081 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767078
+EXPERIMENT ITERATION = 7
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10851.9 seconds
+Execution time Best Solution: 13.0302 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.766414
+
+
+
+
+
+
+
+
+EXPERIMENT ITERATION = 8
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10818.4 seconds
+Execution time Best Solution: 13.1779 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.765787
+
+
+
+EXPERIMENT ITERATION = 9
+EXECUTION STOPPED DUE TO TIME OUT
+Execution time Total: 10863.8 seconds
+Execution time Best Solution: 12.2073 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.767641
+
+MITJANA TEMPS BEST SOLUTION = 10.0795
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.767053
+
+INSTANCE ./TUNING_c++ CMSA dataset_500x10_75.txt 10 5 1000
+
+SEMILLA: 1724523926
+
+
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 205.479 seconds
+Execution time Best Solution: 0.315685 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 208.755 seconds
+Execution time Best Solution: 0.207408 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 207.518 seconds
+Execution time Best Solution: 0.20792 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628906
+
+
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 205.552 seconds
+Execution time Best Solution: 0.206205 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628906
+
+
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 207.065 seconds
+Execution time Best Solution: 0.205578 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.641732
+
+
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 207.411 seconds
+Execution time Best Solution: 0.207924 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 200.367 seconds
+Execution time Best Solution: 0.208789 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629921
+
+
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 207.827 seconds
+Execution time Best Solution: 0.20587 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.641732
+
+
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 209.461 seconds
+Execution time Best Solution: 0.210066 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.648855
+
+
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 208.324 seconds
+Execution time Best Solution: 0.207354 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.641732
+
+MITJANA TEMPS BEST SOLUTION = 0.21828
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.639879
+
+INSTANCE ./TUNING_c++ CMSA dataset_500x10_75.txt 10 15 1000
+
+SEMILLA: 1724525994
+
+
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 203.056 seconds
+Execution time Best Solution: 0.208187 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 206.592 seconds
+Execution time Best Solution: 0.204959 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.648855
+
+
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 192.16 seconds
+Execution time Best Solution: 0.206967 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.659091
+
+
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 193.134 seconds
+Execution time Best Solution: 0.200742 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629921
+
+
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 175.501 seconds
+Execution time Best Solution: 0.203839 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.641732
+
+
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 205.724 seconds
+Execution time Best Solution: 0.205723 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 203.783 seconds
+Execution time Best Solution: 0.208725 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 204.408 seconds
+Execution time Best Solution: 0.199092 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 202.936 seconds
+Execution time Best Solution: 0.201389 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.659091
+
+
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 205.4 seconds
+Execution time Best Solution: 0.203957 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.632576
+
+MITJANA TEMPS BEST SOLUTION = 0.204358
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.6513
+
+INSTANCE ./TUNING_c++ CMSA dataset_500x10_75.txt 10 25 1000
+
+SEMILLA: 1724527986
+
+
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 205.607 seconds
+Execution time Best Solution: 0.204054 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 195.878 seconds
+Execution time Best Solution: 0.208265 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 205.93 seconds
+Execution time Best Solution: 0.201969 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.648855
+
+
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 204.432 seconds
+Execution time Best Solution: 0.207171 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.621094
+
+
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 204.626 seconds
+Execution time Best Solution: 0.201922 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628906
+
+
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 204.007 seconds
+Execution time Best Solution: 0.206423 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.648855
+
+
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 203.326 seconds
+Execution time Best Solution: 0.203689 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 201.202 seconds
+Execution time Best Solution: 0.197397 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 201.804 seconds
+Execution time Best Solution: 0.163122 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 204.121 seconds
+Execution time Best Solution: 0.208459 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629921
+
+MITJANA TEMPS BEST SOLUTION = 0.200247
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.652409
+
+INSTANCE ./TUNING_c++ CMSA dataset_500x10_75.txt 20 5 1000
+
+SEMILLA: 1724530017
+
+
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 410.201 seconds
+Execution time Best Solution: 0.416433 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.659091
+
+
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 412.282 seconds
+Execution time Best Solution: 0.400021 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 399.686 seconds
+Execution time Best Solution: 0.422801 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.648855
+
+
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 405.048 seconds
+Execution time Best Solution: 0.406851 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 408.989 seconds
+Execution time Best Solution: 0.40845 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.641732
+
+
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 407.33 seconds
+Execution time Best Solution: 0.403084 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.648855
+
+
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 405.966 seconds
+Execution time Best Solution: 0.401182 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.632576
+
+
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 407.087 seconds
+Execution time Best Solution: 0.357779 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.648855
+
+
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 403.621 seconds
+Execution time Best Solution: 0.417054 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629921
+
+
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 409.069 seconds
+Execution time Best Solution: 0.411619 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+MITJANA TEMPS BEST SOLUTION = 0.404527
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.648233
+
+INSTANCE ./TUNING_c++ CMSA dataset_500x10_75.txt 20 15 1000
+
+SEMILLA: 1724534087
+
+
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 401.215 seconds
+Execution time Best Solution: 0.399501 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.659091
+
+
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 393.931 seconds
+Execution time Best Solution: 0.404143 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 402.038 seconds
+Execution time Best Solution: 0.403028 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.621094
+
+
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 401.945 seconds
+Execution time Best Solution: 0.401925 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.641732
+
+
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 392.297 seconds
+Execution time Best Solution: 0.401693 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.621094
+
+
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 356.8 seconds
+Execution time Best Solution: 0.42003 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629921
+
+
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 383.865 seconds
+Execution time Best Solution: 0.399581 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 414.346 seconds
+Execution time Best Solution: 0.402045 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 396.175 seconds
+Execution time Best Solution: 0.409807 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628906
+
+
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 392.4 seconds
+Execution time Best Solution: 0.41047 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.648855
+
+MITJANA TEMPS BEST SOLUTION = 0.405222
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.63877
+
+INSTANCE ./TUNING_c++ CMSA dataset_500x10_75.txt 20 25 1000
+
+SEMILLA: 1724538022
+
+
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 401.728 seconds
+Execution time Best Solution: 0.474586 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.659091
+
+
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 404.819 seconds
+Execution time Best Solution: 0.412162 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.659091
+
+
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 404.659 seconds
+Execution time Best Solution: 0.403793 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.641732
+
+
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 404.753 seconds
+Execution time Best Solution: 0.405956 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.641732
+
+
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 386.084 seconds
+Execution time Best Solution: 0.403301 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 404.71 seconds
+Execution time Best Solution: 0.369938 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.621094
+
+
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 402.456 seconds
+Execution time Best Solution: 0.41245 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 400.261 seconds
+Execution time Best Solution: 0.401845 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.641732
+
+
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 391.394 seconds
+Execution time Best Solution: 0.411665 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 410.346 seconds
+Execution time Best Solution: 0.412733 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.659091
+
+MITJANA TEMPS BEST SOLUTION = 0.410843
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.653144
+
+INSTANCE ./TUNING_c++ CMSA dataset_500x10_75.txt 30 5 1000
+
+SEMILLA: 1724542033
+
+
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 604.886 seconds
+Execution time Best Solution: 0.566819 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628906
+
+
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 594.687 seconds
+Execution time Best Solution: 0.599548 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 598.397 seconds
+Execution time Best Solution: 0.600289 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 598.255 seconds
+Execution time Best Solution: 0.598739 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 580.213 seconds
+Execution time Best Solution: 0.621156 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 601.883 seconds
+Execution time Best Solution: 0.602118 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.648855
+
+
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 580.725 seconds
+Execution time Best Solution: 0.600993 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628906
+
+
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 564.715 seconds
+Execution time Best Solution: 0.605338 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.648855
+
+
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 581.705 seconds
+Execution time Best Solution: 0.60165 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.632576
+
+
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 601.89 seconds
+Execution time Best Solution: 0.594831 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+MITJANA TEMPS BEST SOLUTION = 0.599148
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.646369
+
+INSTANCE ./TUNING_c++ CMSA dataset_500x10_75.txt 30 15 1000
+
+SEMILLA: 1724547940
+
+
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 594.553 seconds
+Execution time Best Solution: 0.60551 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 596.613 seconds
+Execution time Best Solution: 0.605802 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.659091
+
+
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 586.583 seconds
+Execution time Best Solution: 0.607762 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 597.902 seconds
+Execution time Best Solution: 0.608044 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.621094
+
+
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 578.999 seconds
+Execution time Best Solution: 0.629188 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 594.706 seconds
+Execution time Best Solution: 0.592884 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.648855
+
+
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 603.943 seconds
+Execution time Best Solution: 0.602465 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.641732
+
+
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 582.406 seconds
+Execution time Best Solution: 0.605757 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.641732
+
+
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 585.349 seconds
+Execution time Best Solution: 0.6027 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629921
+
+
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 600.715 seconds
+Execution time Best Solution: 0.600479 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628906
+
+MITJANA TEMPS BEST SOLUTION = 0.606059
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.637291
+
+INSTANCE ./TUNING_c++ CMSA dataset_500x10_75.txt 30 25 1000
+
+SEMILLA: 1724553862
+
+
+
+EXPERIMENT ITERATION = 0
+Execution time Total: 604.402 seconds
+Execution time Best Solution: 0.628519 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.632576
+
+
+
+EXPERIMENT ITERATION = 1
+Execution time Total: 604.513 seconds
+Execution time Best Solution: 0.606854 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.628906
+
+
+
+EXPERIMENT ITERATION = 2
+Execution time Total: 607.414 seconds
+Execution time Best Solution: 0.605807 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629921
+
+
+
+EXPERIMENT ITERATION = 3
+Execution time Total: 593.393 seconds
+Execution time Best Solution: 0.608806 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.632576
+
+
+
+EXPERIMENT ITERATION = 4
+Execution time Total: 596.341 seconds
+Execution time Best Solution: 0.600227 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.633858
+
+
+
+EXPERIMENT ITERATION = 5
+Execution time Total: 599.951 seconds
+Execution time Best Solution: 0.609823 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.669291
+
+
+
+EXPERIMENT ITERATION = 6
+Execution time Total: 605.895 seconds
+Execution time Best Solution: 0.604686 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.632576
+
+
+
+EXPERIMENT ITERATION = 7
+Execution time Total: 600.965 seconds
+Execution time Best Solution: 0.585471 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629921
+
+
+
+EXPERIMENT ITERATION = 8
+Execution time Total: 600.403 seconds
+Execution time Best Solution: 0.59668 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.621094
+
+
+
+EXPERIMENT ITERATION = 9
+Execution time Total: 596.387 seconds
+Execution time Best Solution: 0.607406 seconds
+Iteration Best Solution: 0
+Completeness Best Solution: 0.629921
+
+MITJANA TEMPS BEST SOLUTION = 0.605428
+MITJANA ITERATIONS BEST SOLUTION = 0
+MITJANA BEST COMPLETENESS = 0.634064

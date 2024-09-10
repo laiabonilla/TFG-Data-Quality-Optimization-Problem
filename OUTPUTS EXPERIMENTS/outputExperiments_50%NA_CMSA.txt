@@ -1,0 +1,762 @@
+INSTANCE ./final_c++ CMSA dataset_10x10_50.txt 2 2
+
+RESULTS:
+Rows Size of solution dataset: 6
+Cols Size of solution dataset: 7
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.738095
+Execution time: 58.2863 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x10_50.txt 5 5
+
+RESULTS:
+Rows Size of solution dataset: 5
+Cols Size of solution dataset: 8
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.75
+Execution time: 57.8508 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x10_50.txt 7 7
+
+RESULTS:
+Rows Size of solution dataset: 7
+Cols Size of solution dataset: 7
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.693878
+Execution time: 43.0358 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x50_50.txt 2 12
+
+RESULTS:
+Rows Size of solution dataset: 4
+Cols Size of solution dataset: 15
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.833333
+Execution time: 43.3508 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x50_50.txt 5 25
+
+RESULTS:
+Rows Size of solution dataset: 5
+Cols Size of solution dataset: 25
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.616
+Execution time: 49.9768 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x50_50.txt 7 37
+
+RESULTS:
+Rows Size of solution dataset: 7
+Cols Size of solution dataset: 37
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.528958
+Execution time: 51.3854 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x100_50.txt 2 25
+
+RESULTS:
+Rows Size of solution dataset: 4
+Cols Size of solution dataset: 30
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.858333
+Execution time: 71.4759 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x100_50.txt 5 50
+
+RESULTS:
+Rows Size of solution dataset: 5
+Cols Size of solution dataset: 50
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.68
+Execution time: 68.7041 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x100_50.txt 7 75
+
+RESULTS:
+Rows Size of solution dataset: 7
+Cols Size of solution dataset: 75
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.56
+Execution time: 60.8754 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x500_50.txt 2 125
+
+RESULTS:
+Rows Size of solution dataset: 4
+Cols Size of solution dataset: 144
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.835069
+Execution time: 217.783 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x500_50.txt 5 250
+
+RESULTS:
+Rows Size of solution dataset: 5
+Cols Size of solution dataset: 250
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.5616
+Execution time: 233.742 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x500_50.txt 7 375
+
+RESULTS:
+Rows Size of solution dataset: 7
+Cols Size of solution dataset: 375
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.541333
+Execution time: 246.527 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x1000_50.txt 2 250
+
+RESULTS:
+Rows Size of solution dataset: 4
+Cols Size of solution dataset: 250
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.815
+Execution time: 431.101 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x1000_50.txt 5 500
+
+RESULTS:
+Rows Size of solution dataset: 6
+Cols Size of solution dataset: 500
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.596
+Execution time: 464.752 seconds
+
+INSTANCE ./final_c++ CMSA dataset_10x1000_50.txt 7 750
+
+RESULTS:
+Rows Size of solution dataset: 7
+Cols Size of solution dataset: 750
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.528571
+Execution time: 487.87 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x10_50.txt 12 2
+
+RESULTS:
+Rows Size of solution dataset: 17
+Cols Size of solution dataset: 2
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.823529
+Execution time: 44.5888 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x10_50.txt 25 5
+
+RESULTS:
+Rows Size of solution dataset: 25
+Cols Size of solution dataset: 5
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.672
+Execution time: 52.1633 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x10_50.txt 37 7
+
+RESULTS:
+Rows Size of solution dataset: 37
+Cols Size of solution dataset: 7
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.563707
+Execution time: 53.8305 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x50_50.txt 12 12
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 34
+Cols Size of solution dataset: 21
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.620448
+Execution time: 4008.6 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x50_50.txt 25 25RESULTS:
+Rows Size of solution dataset: 31
+Cols Size of solution dataset: 25
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.620645
+Execution time: 4871.05 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x50_50.txt 37 37
+
+RESULTS:
+Rows Size of solution dataset: 37
+Cols Size of solution dataset: 37
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.566837
+Execution time: 1313.01 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x100_50.txt 12 25
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 21
+Cols Size of solution dataset: 61
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.612022
+Execution time: 4300.02 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x100_50.txt 25 50
+
+
+
+RESULTS:
+Rows Size of solution dataset: 27
+Cols Size of solution dataset: 60
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.599383
+Execution time: 5479.49 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x100_50.txt 37 75
+
+
+
+RESULTS:
+Rows Size of solution dataset: 37
+Cols Size of solution dataset: 75
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.552793
+Execution time: 4120.34 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x500_50.txt 12 125RESULTS:
+Rows Size of solution dataset: 21
+Cols Size of solution dataset: 250
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.606286
+Execution time: 5171.75 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x500_50.txt 25 250
+
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 31
+Cols Size of solution dataset: 259
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.581019
+Execution time: 3726.83 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x500_50.txt 37 375RESULTS:
+Rows Size of solution dataset: 38
+Cols Size of solution dataset: 375
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.538877
+Execution time: 7012.26 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x1000_50.txt 12 250
+RESULTS:
+Rows Size of solution dataset: 21
+Cols Size of solution dataset: 531
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.595104
+Execution time: 5729.45 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x1000_50.txt 25 500
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 29
+Cols Size of solution dataset: 500
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.581655
+Execution time: 3601.31 seconds
+
+INSTANCE ./final_c++ CMSA dataset_50x1000_50.txt 37 750RESULTS:
+Rows Size of solution dataset: 37
+Cols Size of solution dataset: 750
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.537333
+Execution time: 6198.54 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x10_50.txt 25 2
+
+RESULTS:
+Rows Size of solution dataset: 42
+Cols Size of solution dataset: 2
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.869048
+Execution time: 67.058 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x10_50.txt 50 5
+
+RESULTS:
+Rows Size of solution dataset: 50
+Cols Size of solution dataset: 5
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.652
+Execution time: 66.934 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x10_50.txt 75 7
+
+RESULTS:
+Rows Size of solution dataset: 75
+Cols Size of solution dataset: 7
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.542857
+Execution time: 68.3719 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x50_50.txt 25 12RESULTS:
+Rows Size of solution dataset: 58
+Cols Size of solution dataset: 21
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.608374
+Execution time: 5231.39 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x50_50.txt 50 25
+
+
+
+RESULTS:
+Rows Size of solution dataset: 50
+Cols Size of solution dataset: 27
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.608889
+Execution time: 3858.57 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x50_50.txt 75 37
+
+RESULTS:
+Rows Size of solution dataset: 75
+Cols Size of solution dataset: 37
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.557838
+Execution time: 3129.04 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x100_50.txt 25 25
+
+
+
+RESULTS:
+Rows Size of solution dataset: 37
+Cols Size of solution dataset: 56
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.597973
+Execution time: 3600.25 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x100_50.txt 50 50RESULTS:
+Rows Size of solution dataset: 50
+Cols Size of solution dataset: 63
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.581587
+Execution time: 5867.98 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x100_50.txt 75 75RESULTS:
+Rows Size of solution dataset: 75
+Cols Size of solution dataset: 75
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.546489
+Execution time: 3782.55 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x500_50.txt 25 125
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 33
+Cols Size of solution dataset: 282
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.58113
+Execution time: 3602.06 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x500_50.txt 50 250
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 53
+Cols Size of solution dataset: 266
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.563059
+Execution time: 3601.57 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x500_50.txt 75 375
+
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 75
+Cols Size of solution dataset: 375
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.526542
+Execution time: 4256.86 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x1000_50.txt 25 250
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 38
+Cols Size of solution dataset: 490
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.581686
+Execution time: 3601.92 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x1000_50.txt 50 500
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 58
+Cols Size of solution dataset: 522
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.552583
+Execution time: 3602.13 seconds
+
+INSTANCE ./final_c++ CMSA dataset_100x1000_50.txt 75 750
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 75
+Cols Size of solution dataset: 750
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.523573
+Execution time: 3602.05 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x10_50.txt 125 2
+
+RESULTS:
+Rows Size of solution dataset: 194
+Cols Size of solution dataset: 2
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.81701
+Execution time: 167.993 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x10_50.txt 250 5
+
+RESULTS:
+Rows Size of solution dataset: 250
+Cols Size of solution dataset: 5
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.6136
+Execution time: 178.93 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x10_50.txt 375 7
+
+RESULTS:
+Rows Size of solution dataset: 375
+Cols Size of solution dataset: 7
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.529143
+Execution time: 191.444 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x50_50.txt 125 12
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 264
+Cols Size of solution dataset: 17
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.613636
+Execution time: 4269.74 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x50_50.txt 250 25
+
+RESULTS:
+Rows Size of solution dataset: 276
+Cols Size of solution dataset: 27
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.579844
+Execution time: 5576.86 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x50_50.txt 375 37
+
+RESULTS:
+Rows Size of solution dataset: 375
+Cols Size of solution dataset: 37
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.54364
+Execution time: 4038.7 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x100_50.txt 125 25
+
+
+
+RESULTS:
+Rows Size of solution dataset: 197
+Cols Size of solution dataset: 41
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.578556
+Execution time: 3601.54 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x100_50.txt 250 50
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 258
+Cols Size of solution dataset: 58
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.559543
+Execution time: 3601.37 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x100_50.txt 375 75
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 375
+Cols Size of solution dataset: 75
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.529209
+Execution time: 3601.51 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x500_50.txt 125 125
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 142
+Cols Size of solution dataset: 285
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.539239
+Execution time: 3609.57 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x500_50.txt 250 250
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 262
+Cols Size of solution dataset: 254
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.5255
+Execution time: 3605.61 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x500_50.txt 375 375
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 383
+Cols Size of solution dataset: 381
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.51005
+Execution time: 3802.39 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x1000_50.txt 125 250
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 139
+Cols Size of solution dataset: 531
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.536655
+Execution time: 3611.23 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x1000_50.txt 250 500
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 259
+Cols Size of solution dataset: 527
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.525551
+Execution time: 3608.84 seconds
+
+INSTANCE ./final_c++ CMSA dataset_500x1000_50.txt 375 750
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 382
+Cols Size of solution dataset: 758
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.509411
+Execution time: 3610.6 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x10_50.txt 250 2
+
+RESULTS:
+Rows Size of solution dataset: 370
+Cols Size of solution dataset: 2
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.832432
+Execution time: 308.289 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x10_50.txt 500 5
+
+RESULTS:
+Rows Size of solution dataset: 500
+Cols Size of solution dataset: 5
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.6124
+Execution time: 329.906 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x10_50.txt 750 7
+
+RESULTS:
+Rows Size of solution dataset: 750
+Cols Size of solution dataset: 7
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.524952
+Execution time: 359.89 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x50_50.txt 250 12
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 561
+Cols Size of solution dataset: 19
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.595365
+Execution time: 5687.26 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x50_50.txt 500 25
+
+RESULTS:
+Rows Size of solution dataset: 523
+Cols Size of solution dataset: 29
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.579152
+Execution time: 4694.04 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x50_50.txt 750 37
+
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 750
+Cols Size of solution dataset: 37
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.538126
+Execution time: 3750.43 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x100_50.txt 250 25
+
+
+
+RESULTS:
+Rows Size of solution dataset: 487
+Cols Size of solution dataset: 31
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.579652
+Execution time: 3600.62 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x100_50.txt 500 50
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 551
+Cols Size of solution dataset: 66
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.5443
+Execution time: 3601.7 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x100_50.txt 750 75
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 750
+Cols Size of solution dataset: 75
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.525138
+Execution time: 3601.84 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x500_50.txt 250 125
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 254
+Cols Size of solution dataset: 262
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.529047
+Execution time: 3603.94 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x500_50.txt 500 250
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 510
+Cols Size of solution dataset: 251
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.518249
+Execution time: 3607.42 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x500_50.txt 750 375
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 753
+Cols Size of solution dataset: 377
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.507565
+Execution time: 3614.8 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x1000_50.txt 250 250
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 265
+Cols Size of solution dataset: 546
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.525807
+Execution time: 3608.87 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x1000_50.txt 500 500
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 513
+Cols Size of solution dataset: 501
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.517834
+Execution time: 3612.47 seconds
+
+INSTANCE ./final_c++ CMSA dataset_1000x1000_50.txt 750 750
+
+
+
+
+RESULTS:
+Rows Size of solution dataset: 755
+Cols Size of solution dataset: 966
+Completeness original dataset: 0.5
+Completeness of solution dataset: 0.500625
+Execution time: 3623.74 seconds
+
